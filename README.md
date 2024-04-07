@@ -8,11 +8,11 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ### 🔧 Instalação
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
+Siga estas etapas para configurar o ambiente de desenvolvimento:
 
 1. Clone o repositório em sua máquina local:
 ```
-git clone https://github.com/ewelyn-samaris/ewelyn-samaris
+git clone https://github.com/ewelyn-samaris/e-commerce-backend
 ```
 
 2. Instale as dependências do projeto:
@@ -38,7 +38,7 @@ npm run test:unit
 ### 🔩 Analise os testes de ponta a ponta
 
 Os testes de ponta a ponta verificam a integração de todas as partes do sistema para garantir seu funcionamento correto.
-Para executar os testes unitários automatizados, utilize o seguinte comando:
+Para executar os testes end-to-end automatizados, utilize o seguinte comando:
 ```
 npm run test:e2e
 ```
@@ -61,10 +61,6 @@ Para implantar o back-end do projeto e-commerce em um ambiente de produção, si
 * [Node.js](https://nodejs.org/) - Ambiente de execução JavaScript
 * [Express.js](https://expressjs.com/) - Framework web para Node.js
 * [npm](https://www.npmjs.com/) - Gerenciador de dependências
-
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
 
 ## 📌 Versão
 
