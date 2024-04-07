@@ -1,0 +1,11 @@
+# configuration
+package-lock.json
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# typescript compiled code
+dist/
